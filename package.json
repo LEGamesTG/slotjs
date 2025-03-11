@@ -5,13 +5,16 @@
     "homepage": "https://danziger.github.io/slotjs/",
     "license": "MIT",
     "author": {
-        "name": "Счастливые Эмодзи",
-        "email": "luckyemoji@outlook.com",
-        "url": "https://t.me/luckyemojicasino"
+        "name": "Daniel Gámez Franco",
+        "email": "gmzcodes@outlook.com",
+        "url": "http://gmzcodes.com"
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/LEGamesTG/slotjs.git"
+        "url": "git+https://github.com/Danziger/slotjs.git"
+    },
+    "bugs": {
+        "url": "https://github.com/Danziger/slotjs/issues"
     },
     "main": "./src/app/main.js",
     "scripts": {
@@ -57,7 +60,7 @@
         "eslint-plugin-babel": "^5.3.1",
         "eslint-plugin-import": "^2.28.0",
         "eslint-webpack-plugin": "^4.0.1",
-        "gh-pages": "^6.3.0",
+        "gh-pages": "^6.0.0",
         "hasha": "^5.2.2",
         "html-loader": "^4.2.0",
         "html-webpack-plugin": "^5.5.3",
