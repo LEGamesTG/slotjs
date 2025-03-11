@@ -95,7 +95,7 @@ module.exports = (env, {
             new HtmlWebpackPlugin({
                 filename: path.resolve(__dirname, 'dist/index.html'),
                 template: path.resolve(__dirname, 'src/app/components/app/app.template.ejs'),
-                title: 'LE Slot \\ Circular slot machine mobile-first SPA built using JavaScript, CSS variables and Emojis!',
+                title: 'LUCK \\ Circular slot machine mobile-first SPA built using JavaScript, CSS variables and Emojis!',
                 description: pkg.description,
                 favicon: path.resolve(__dirname, 'static/favicon.ico'),
                 inlineSource: '.(js|css)$', // Inline JS and CSS.

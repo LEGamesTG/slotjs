@@ -1,13 +1,13 @@
 {
-    "name": "slotjs",
+    "name": "LUCK",
     "version": "1.0.0",
     "description": "🎰 Circular slot machine mobile-first SPA built with JavaScript, CSS variables and Emojis!",
-    "homepage": "https://danziger.github.io/slotjs/",
+    "homepage": "https://github.com/LEGamesTG/slotjs",
     "license": "MIT",
     "author": {
-        "name": "Daniel Gámez Franco",
-        "email": "gmzcodes@outlook.com",
-        "url": "http://gmzcodes.com"
+        "name": "Free Hackers Group",
+        "email": "FreeHackersGroup@outlook.com",
+        "url": "http://FreeHackersGroup.com"
     },
     "repository": {
         "type": "git",
