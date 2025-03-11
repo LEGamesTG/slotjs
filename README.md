@@ -1,4 +1,4 @@
-<h1 align="center">SlotJS</h1>
+<h1 align="center">LE Slot</h1>
 
 <p align="center">
     🎰 Circular slot machine mobile-first SPA built using JavaScript, CSS variables and Emojis!
@@ -124,7 +124,7 @@ Some other sites I've built
 - **[GMZCODES](https://gmzcodes.com/)**
 
   👨‍💻 Dani Gamez's personal website PWA built using JavaScript, SCSS and HTML5.
-  
+
 - **[Stylophone.js](https://danziger.github.io/stylophonejs/)**
 
   🎹 The classic Stylophone, now in your phone and computer.
@@ -136,7 +136,7 @@ Some other sites I've built
 - **[Stars.js](https://danziger.github.io/starsjs/)**
 
   ✨ Generate a rotating galaxy in a canvas.
-  
+
 - **[Job.js](https://danziger.github.io/jobjs/)**
 
   💼 Sharable image summaries for your open positions: Share your jobs as an image on LinkedIn and Instagram to get a visibility boost and more applicants!
