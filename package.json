@@ -5,16 +5,13 @@
     "homepage": "https://danziger.github.io/slotjs/",
     "license": "MIT",
     "author": {
-        "name": "Daniel Gámez Franco",
-        "email": "gmzcodes@outlook.com",
-        "url": "http://gmzcodes.com"
+        "name": "Счастливые Эмодзи",
+        "email": "luckyemoji@outlook.com",
+        "url": "https://t.me/luckyemojicasino"
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/Danziger/slotjs.git"
-    },
-    "bugs": {
-        "url": "https://github.com/Danziger/slotjs/issues"
+        "url": "git+https://github.com/LEGamesTG/slotjs.git"
     },
     "main": "./src/app/main.js",
     "scripts": {
